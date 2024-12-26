@@ -1,5 +1,5 @@
 <template>
-   <div class="flex items-center gap-4">
+   <div class="flex items-center gap-4 justify-center">
       <NuxtLink :to="socials.upwork" class="rounded-full border border-[#EAEAEA] p-5 bg-white">
          <img src="assets/icons/upwork.svg" alt="UpWork icon" class="w-6 h-6" />
       </NuxtLink>

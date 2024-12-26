@@ -1,5 +1,5 @@
 <template>
-   <footer class="mt-24 w-full">
+   <footer class="w-full mt-auto">
       <hr class="w-full" />
       <div class="flex gap-4 justify-center mt-6">
          <NuxtLink :to="socials.linkedIn" class="font-light text-sm text-[#a4a4a4]">LinkedIn</NuxtLink>

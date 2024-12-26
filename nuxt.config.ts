@@ -5,7 +5,7 @@ export default defineNuxtConfig({
    modules: ["@nuxtjs/tailwindcss", "@nuxtjs/google-fonts", "nuxt-lucide-icons", "@nuxt/image"],
    googleFonts: {
       families: {
-         "Funnel Display": true
+         "Funnel Display": "300..800"
       }
    },
    tailwindcss: {
