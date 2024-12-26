@@ -1,7 +1,7 @@
 <template>
    <footer class="w-full mt-auto">
       <hr class="w-full" />
-      <div class="flex gap-4 justify-center mt-6">
+      <div class="flex gap-4 justify-center md:justify-end mt-6">
          <NuxtLink :to="socials.linkedIn" class="font-light text-sm text-[#a4a4a4]">LinkedIn</NuxtLink>
 
          <NuxtLink :to="socials.upwork" class="font-light text-sm text-[#a4a4a4]">UpWork</NuxtLink>

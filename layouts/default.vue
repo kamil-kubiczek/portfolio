@@ -4,7 +4,7 @@ const mobileNavigationOpen = ref(false)
 
 <template>
    <AppMobileNavigation v-if="mobileNavigationOpen" @close-mobile-navigation="mobileNavigationOpen = false" />
-   <div class="p-6 relative text-text overflow-x-clip flex flex-col min-h-screen">
+   <div class="p-6 md:p-12 lg:px-24 text-text relative overflow-x-clip flex flex-col min-h-screen">
       <AppHeader @open-mobile-navigation="mobileNavigationOpen = true" />
       <main>
          <slot />

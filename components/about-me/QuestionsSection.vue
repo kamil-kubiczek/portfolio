@@ -1,5 +1,5 @@
 <template>
-   <section class="flex items-center flex-col justify-center gap-12">
+   <section class="mx-auto flex items-center flex-col justify-center gap-12 max-w-[540px]">
       <AboutMeAnswerContainer>
          <AboutMeQuestionHeading>Who are you?</AboutMeQuestionHeading>
          <AboutMeAnswerParagraph

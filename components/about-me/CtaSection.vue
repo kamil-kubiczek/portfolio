@@ -1,6 +1,6 @@
 <template>
-   <section>
-      <h1 class="font-bold text-5xl">Let's make your project together.</h1>
+   <section class="md:max-w-[540px] md:mx-auto">
+      <h1 class="font-bold text-5xl md:text-7xl">Let's make your <span class="hidden md:inline">next</span> project together.</h1>
 
       <ButtonPrimary class="mt-10"> Get in touch with me </ButtonPrimary>
    </section>
