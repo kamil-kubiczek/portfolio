@@ -9,7 +9,7 @@
       </AboutMeAnswerContainer>
 
       <AboutMeAnswerContainer>
-         <AboutMeQuestionHeading>What skills do y have?</AboutMeQuestionHeading>
+         <AboutMeQuestionHeading>What skills do you have?</AboutMeQuestionHeading>
          <AboutMeAnswerParagraph
             >I'm mainly skilled in Vue and Nuxt ecosystem, React, REST APIs, TRPC, BaaS. I gained some knowledge about
             DevOps.</AboutMeAnswerParagraph
