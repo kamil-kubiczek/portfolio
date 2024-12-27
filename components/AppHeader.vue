@@ -1,6 +1,6 @@
 <template>
    <header class="flex justify-between items-center">
-      <NuxtLink class="text-xl font-medium md:text-4xl leading-3 md:leading-[24px]">
+      <NuxtLink to="/" class="text-xl font-medium md:text-4xl leading-3 md:leading-[24px]">
          <span class="text-sm md:text-base m-0 font-normal">Kamil</span>
          <br />
          Kubiczek

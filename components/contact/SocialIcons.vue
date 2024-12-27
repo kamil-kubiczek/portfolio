@@ -17,7 +17,7 @@
          </div>
       </NuxtLink>
 
-      <NuxtLink :to="socials.email" class="rounded-full border border-[#EAEAEA] p-5 bg-white relative">
+      <NuxtLink :to="'mailto:' + socials.email" class="rounded-full border border-[#EAEAEA] p-5 bg-white relative">
          <img src="assets/icons/email.svg" alt="Email icon" class="w-6 h-6" />
 
          <div class="absolute -bottom-36 -left-1/4">

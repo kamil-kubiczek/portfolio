@@ -4,5 +4,10 @@ export default defineAppConfig({
       linkedIn: "https://www.linkedin.com/in/kamil-kubiczek-625626307/",
       github: "https://github.com/YoungKamilson",
       email: "kamil.kubiczek7@gmail.com"
+   },
+   projects: {
+      schoolWebsite: "https://zsz.olesnica.pl",
+      klmatShop: "https://klmat.pl",
+      terminaiWebsite: "https://termin.ai"
    }
 })

@@ -2,7 +2,14 @@
 export default defineNuxtConfig({
    compatibilityDate: "2024-11-01",
    devtools: { enabled: true },
-   modules: ["@nuxtjs/tailwindcss", "@nuxtjs/google-fonts", "nuxt-lucide-icons", "@nuxt/image"],
+   modules: [
+      "@nuxtjs/tailwindcss",
+      "@nuxtjs/google-fonts",
+      "nuxt-lucide-icons",
+      "@nuxt/image",
+      "@nuxtjs/sitemap",
+      "@nuxtjs/robots"
+   ],
    googleFonts: {
       families: {
          "Funnel Display": "300..800"
