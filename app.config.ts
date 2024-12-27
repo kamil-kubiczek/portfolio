@@ -1,4 +1,5 @@
 export default defineAppConfig({
+   url: "https://portfolio-young-kamilson.nuxt.dev",
    socials: {
       upwork: "https://www.upwork.com/freelancers/~01e6c51e227c0d68de",
       linkedIn: "https://www.linkedin.com/in/kamil-kubiczek-625626307/",

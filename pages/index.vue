@@ -5,6 +5,8 @@
 </template>
 
 <script setup lang="ts">
+const { url } = useAppConfig()
+
 useSeoMeta({
    title: "Portfolio - Kamil Kubiczek - web developer",
    ogTitle: "Portfolio - Kamil Kubiczek - web developer",
@@ -15,9 +17,9 @@ useSeoMeta({
       "I am experienced fullstack web developer with a focus on modern frontend and backend technologies. Check out my portfolio.",
    twitterDescription:
       "I am experienced fullstack web developer with a focus on modern frontend and backend technologies. Check out my portfolio.",
-   ogUrl: "https://todo.com",
-   ogImage: "https://todo.com/images/Home-og-image.png",
-   twitterImage: "https://todo.com/images/Home-og-image.png",
+   ogUrl: url,
+   ogImage: url + "/images/Home-og-image.png",
+   twitterImage: url + "/images/Home-og-image.png",
    twitterCard: "summary"
 })
 </script>
