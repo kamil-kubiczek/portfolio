@@ -9,6 +9,12 @@ useHead({
    htmlAttrs: {
       lang: "en"
    },
+   meta: [
+      {
+         name: "google-site-verification",
+         content: "qWSz_FF0chlLWD7qMo6X2lo69Ji15KIgjbl-Bl-JNNQ"
+      }
+   ],
    link: [
       {
          rel: "icon",
