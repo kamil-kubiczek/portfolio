@@ -27,6 +27,11 @@ useHead({
          media: "(prefers-color-scheme: dark)",
          type: "image/png",
          href: "/images/Favicon-dark-mode.png"
+      },
+      {
+         rel: "icon",
+         type: "image/png",
+         href: "/images/Favicon-dark-mode.png"
       }
    ]
 })
