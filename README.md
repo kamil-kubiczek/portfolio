@@ -1,5 +1,5 @@
 ## My personal portfolio
-This repository contains my personal portfolio written in Nuxt 3 using SSR.
+This repository contains my personal portfolio designed in Figma and written in Nuxt 3 with SSR in mind. 
 
 ## Installation
 
